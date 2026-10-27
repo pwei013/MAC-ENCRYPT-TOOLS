@@ -1,0 +1,7 @@
+.build/
+.swiftpm/
+work/
+build/
+/Vendor/openssl/
+.DS_Store
+._*
